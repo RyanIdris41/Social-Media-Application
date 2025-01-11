@@ -94,7 +94,7 @@ The platform adopts a modular design for scalability and clarity. The main compo
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone (https://github.com/RyanIdris41/Social-Media-Application.git)
    ```
 
 2. Navigate to the project folder:
